@@ -13,10 +13,6 @@ Check off each chapter as you complete it, and the system will show you the perc
   - [Cloning the Repository](#cloning-the-repository)
   - [Installing Dependencies](#installing-dependencies)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 
 ## Installation
 
